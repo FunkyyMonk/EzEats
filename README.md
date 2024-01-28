@@ -7,7 +7,7 @@ Hack-A-Bull 2023 Hackathon Project at University of South Florida.
 
 # Description
 
-Get Restraurant recommendations based on your preferences and location.
+Get Restaurant recommendations based on your preferences and location.
 Choose your Meal in 2 Simple Steps:
 
 1. Choose your Cusine Preference
